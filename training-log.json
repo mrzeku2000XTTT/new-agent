@@ -1,0 +1,14 @@
+[
+  {
+    "input": "Input: raw tx data or a description of one",
+    "output": "Output: a plain-English one-liner",
+    "tx_id": "b560adf6ecd20e11c819d82dde37216081ec37d89940cb1bc589c62742c604d0",
+    "at": "2026-08-18T00:57:54.244Z"
+  },
+  {
+    "input": "Transaction ID: b560adf6ecd20e11c819d82dde37216081ec37d89940cb1bc589c62742c604d0\nStatus: accepted\nBlock time: +058598-03-29T05:37:43.000Z\nFrom: kaspa:qqkdkx65rt34yjdarzh32e8tgu5545dm0qa0j4x7hp5ptsyjak6lv9kjvx5hm\nTo: kaspa:qqkdkx65rt34yjdarzh32e8tgu5545dm0qa0j4x7hp5ptsyjak6lv9kjvx5hm\nTotal output: 0.9976 KAS\nInputs: 1\nOutputs: 2\nOutputs:\n  [0] kaspa:qqkdkx65rt34yjdarzh32e8tgu5545dm0qa0j4x7hp5ptsyjak6lv9kjvx5hm — 0.2 KAS\n  [1] kaspa:qqkdkx65rt34yjdarzh32e8tgu5545dm0qa0j4x7hp5ptsyjak6lv9kjvx5hm — 0.7976 KAS",
+    "output": "**Transaction Summary**\n\nThis is a **self-transfer** — the same address sent and received funds. The address `kaspa:qqkdkx...x5hm` sent KAS to itself, splitting the funds into two outputs: **0.2 KAS** and **0.7976 KAS**, totaling **0.9976 KAS**. The small difference from the input represents the network fee. The transaction was **accepted** and had 1 input and 2 outputs. The block timestamp appears malformed (`+058598-03-29`), so the exact time cannot be reliably reported.",
+    "tx_id": "e430c22ce27b59deb00082718a54c9487c55bd95288248e183c9b3053f872f8f",
+    "at": "2026-08-18T01:03:09.816Z"
+  }
+]
